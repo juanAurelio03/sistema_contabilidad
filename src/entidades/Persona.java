@@ -8,5 +8,5 @@ package entidades;
  * Encontrá más código en mi repo de GitHub: https://github.com/CharlyCimino
  */
 public class Persona {
-    
+    int a;
 }
